@@ -1,0 +1,98 @@
+[
+  {
+    "recipe_image": "https://www.nathanandchristinamakefood.com/static/images/620/chicken-teriyaki-pineapple-rice-0.jpg",
+    "recipe_id": "101",
+    "recipe_name": "Grilled Chicken Teriyaki",
+    "short_description": "A delicious grilled chicken with a sweet teriyaki glaze.",
+    "ingredients": [
+      "550 g chicken",
+      "120 ml soy sauce",
+      "2 tbsp honey",
+      "1 tsp ginger paste",
+      "2 garlic cloves, minced",
+      "1 tbsp sesame seeds"
+    ],
+    "preparing_time": 30,
+    "calories": 320
+  },
+  {
+    "recipe_image": "https://www.allrecipes.com/thmb/gTibTRJ8MW87L0jMhAvXPjIDD94=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/19402-quick-and-easy-alfredo-sauce-DDMFS-4x3-17abb2055c714807944172db9172b045.jpg",
+    "recipe_id": "102",
+    "recipe_name": "Pasta Alfredo",
+    "short_description": "Creamy Alfredo pasta with a touch of garlic and parmesan.",
+    "ingredients": [
+      "200 g fettuccine",
+      "100 g parmesan cheese",
+      "150 ml heavy cream",
+      "2 garlic cloves, minced",
+      "50 g butter",
+      "Salt and pepper to taste"
+    ],
+    "preparing_time": 25,
+    "calories": 450
+  },
+  {
+    "recipe_image": "https://cdn.prod.website-files.com/60da4419d98adf0a36dc660e/6171ad5ced87812863e86ba6_GrainFreeBuddhaBowl-2-1-scaled.jpg",
+    "recipe_id": "103",
+    "recipe_name": "Vegan Buddha Bowl",
+    "short_description": "A nutritious bowl filled with quinoa, roasted veggies, and avocado.",
+    "ingredients": [
+      "100 g quinoa",
+      "1 avocado, sliced",
+      "200 g roasted sweet potatoes",
+      "100 g spinach",
+      "50 g chickpeas",
+      "1 tbsp tahini sauce"
+    ],
+    "preparing_time": 40,
+    "calories": 380
+  },
+  {
+    "recipe_image": "https://www.allrecipes.com/thmb/7N-Xq1XMMJw8G0KJv2e0ETUYB2I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/228823-quick-beef-stir-fry-DDMFS-4x3-1f79b031d3134f02ac27d79e967dfef5.jpg",
+    "recipe_id": "104",
+    "recipe_name": "Beef Stir Fry",
+    "short_description": "Quick and flavorful beef stir fry with colorful vegetables.",
+    "ingredients": [
+      "300 g beef strips",
+      "200 g broccoli",
+      "150 g bell peppers",
+      "50 ml soy sauce",
+      "2 tbsp oyster sauce",
+      "2 garlic cloves, minced"
+    ],
+    "preparing_time": 20,
+    "calories": 400
+  },
+  {
+    "recipe_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGulyrS9Nk7JMcJvpO3Ofs_pFSZB7D9P-KVQ&s",
+    "recipe_id": "105",
+    "recipe_name": "Thai Green Curry",
+    "short_description": "A spicy and aromatic green curry with coconut milk and vegetables.",
+    "ingredients": [
+      "400 g coconut milk",
+      "150 g green curry paste",
+      "200 g tofu",
+      "100 g eggplant",
+      "50 g basil leaves",
+      "1 tbsp fish sauce"
+    ],
+    "preparing_time": 35,
+    "calories": 450
+  },
+  {
+    "recipe_image": "https://joyfoodsunshine.com/wp-content/uploads/2016/01/best-chocolate-chip-cookies-recipe-ever-no-chilling-1.jpg",
+    "recipe_id": "106",
+    "recipe_name": "Chocolate Chip Cookies",
+    "short_description": "Crispy on the edges, chewy in the middle chocolate chip cookies.",
+    "ingredients": [
+      "200 g flour",
+      "100 g butter",
+      "150 g sugar",
+      "1 egg",
+      "100 g chocolate chips",
+      "1 tsp vanilla extract"
+    ],
+    "preparing_time": 20,
+    "calories": 300
+  }
+]
