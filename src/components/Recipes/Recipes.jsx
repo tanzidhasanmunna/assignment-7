@@ -16,7 +16,7 @@ export default function Recipes({handelOnclick}) {
     <div className="grid grid-cols-1 lg:grid-cols-2 gap-3">
       {
         recipes.map(recipe => (
-          <Recipe key={recipe.id} recipe={recipe}  handelOnclick ={handelOnclick}/>
+          <Recipe key={recipe.recipe_id} recipe={recipe}  handelOnclick ={handelOnclick}/>
         )) 
       }
     </div>

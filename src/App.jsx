@@ -3,10 +3,17 @@ import "./App.css";
 import Coocked from "./components/Coocked/Coocked";
 import Header from "./components/Header/Header";
 import Recipes from "./components/Recipes/Recipes";
+import { ToastContainer, toast } from 'react-toastify';
+import 'react-toastify/dist/ReactToastify.css';
 
 function App() {
   const [whatToCoock, setWhatToCoock] = useState([])
+  const notify = () => toast("Already added");
   const handelOnclick = (recipe) => {
+    if (whatToCoock.includes(recipe)) { 
+      notify();
+      return;  // Stop the function execution if the recipe is already in the list
+    }
     setWhatToCoock([...whatToCoock, recipe])
   };
   return (
@@ -24,6 +31,7 @@ function App() {
         <Recipes handelOnclick={handelOnclick} />
         <Coocked whatToCoock={whatToCoock} setWhatToCoock={setWhatToCoock}/>
       </div>
+      <ToastContainer />
     </div>
   );
 }

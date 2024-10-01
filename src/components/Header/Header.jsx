@@ -32,7 +32,7 @@ export default function Header() {
           <i className="bg-green-600 rounded-full text-2xl p-1"><IoIosContact /></i>
         </div>
       </header>
-      <section className="text-white py-20 bg-no-repeat bg-cover rounded-3xl mt-4" style={{backgroundImage:"url(./public/images/banner.jpg)"}}>
+      <section className="text-white py-20 bg-no-repeat bg-cover rounded-3xl mt-4" style={{backgroundImage:"url(https://t3.ftcdn.net/jpg/02/48/92/96/360_F_248929619_JkVBYroM1rSrshWJemrcjriggudHMUhV.jpg)"}}>
         <div className="container mx-auto px-4 text-center">
           <h2 className="text-4xl font-bold mb-4">
             Discover an exceptional cooking class tailored for you!
